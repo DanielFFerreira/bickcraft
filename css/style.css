@@ -80,3 +80,22 @@
 .call p {
   margin-bottom: 30px;
 }
+
+/* Portfólio */
+.portfolio {
+  width: 100%;
+  background: var(--bg-section-portfolio);
+  padding: 40px 0;
+}
+.portfolio .subtitulo {
+  color: var(--color-subtitulo-text);
+}
+.portfolio .subtitulo::after {
+  background: var(--color-subtitulo-text-after);
+}
+.portfolio_lista li:last-child {
+  margin-top: 20px;
+}
+.portfolio .call p {
+  color: var(--color-portfolio-call-p);
+}
