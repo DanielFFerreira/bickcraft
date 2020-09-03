@@ -1,0 +1,30 @@
+
+/* Header */
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: var(--bg-color-header);
+  padding: 15px 0;
+}
+
+.header_menu {
+  text-align: right;
+}
+.header_menu ul li {
+  display: inline-block;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+.header_menu ul li a {
+  color: var(--color-menu-text);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: 1em;
+  padding: 10px 0;
+}
+.header_menu ul li a:hover {
+  color: var(--color-menu-text-hover);
+  border-bottom: solid 1px var(--color-border-bottom-hover);
+}
