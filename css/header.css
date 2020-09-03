@@ -6,6 +6,7 @@
   width: 100%;
   background-color: var(--bg-color-header);
   padding: 15px 0;
+  z-index: 10;
 }
 
 .header_menu {

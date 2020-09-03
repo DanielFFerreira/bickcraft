@@ -3,11 +3,17 @@
   --color-menu-text: #000;
   --color-menu-text-hover: #fff;
   --color-border-bottom-hover: #fff;
-  --color-container-text-h1: #fff;
-  --color-quote-externo-text: #fff;
+  --color-container-text-h1: #E0E0E0;
+  --color-quote-externo-text: #E0E0E0;
   --color-quote-externo-p-before-after: #EEEEEE;
   --color-container-btn-ancor: #fec63e;
   --color-container-btn-ancor: #fec63e;
   --color-btn-hover-text: #eee;
   --color-btn-hover-border: #eee;
+  --color-subtitulo-text: #212121;
+  --color-subtitulo-after-text: #212121;
+  --bg-produtos-listas-icone: #000;
+  --bg-produtos-lista-li: #FFEB3B;
+  --color-btn-fundo-border-hover: #212121;
+  --color-btn-fundo-text-hover: #212121;
 }

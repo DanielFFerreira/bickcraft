@@ -1,29 +1,3 @@
-/* Estilos gerais */
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-p {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 14px;
-  line-height: 20px;
-}
-
-.btn {
-  border: 3px solid var(--color-container-btn-ancor);
-  padding: 10px 30px;
-  color: var(--color-container-btn-ancor);
-  font-size: 14px;
-  line-height: 20px;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: bold;
-}
-.btn:hover {
-  color: var(--color-btn-hover-text);
-  border-color: var(--color-btn-hover-border);
-}
-
 /* Introdução - Home site */
 .introducao {
   width: 100%;
@@ -62,4 +36,47 @@ p {
   font-weight: bold;
   font-size: 14px;
   letter-spacing: .1em;
+}
+
+/* Produtos */
+.produtos {
+  padding: 60px 0;
+}
+.produtos_lista-icone {
+  background: var(--bg-produtos-listas-icone);
+  padding: 20px;
+}
+
+.produtos_listas li {
+  background: var(--bg-produtos-lista-li);
+  text-align: center;
+}
+
+.produtos_listas li h3 {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 20px;
+}
+.produtos_listas li h3::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: var(--color-subtitulo-after-text);
+  margin: 2px auto;
+}
+.produtos_listas li p {
+  padding: 10px 20px 20px 20px;
+}
+
+.call {
+  padding-top: 40px;
+  text-align: center;
+  clear: both;
+}
+.call p {
+  margin-bottom: 30px;
 }
