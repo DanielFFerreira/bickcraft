@@ -8,6 +8,9 @@ p {
   font-size: 14px;
   line-height: 20px;
 }
+img {
+  display: block;
+}
 
 .btn {
   border: 3px solid var(--color-container-btn-ancor);
@@ -46,4 +49,12 @@ p {
   height: 3px;
   background: var(--color-subtitulo-after-text);
   margin: 8px auto;
+}
+.footer h3 {
+  font-size: 18px;
+  line-height: 25px;
+  color: var(--color-footer-h3-text);
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-weight: bold;
 }

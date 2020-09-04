@@ -20,4 +20,12 @@
   --color-subtitulo-text: #FFEB3B;
   --color-subtitulo-text-after: #ffeb3b;
   --color-portfolio-call-p: #e0e0e0;
+  /* Footer */
+  --bg-footer: #000;
+  --bg-copy: #ffeb3b;
+  --color-footer-text: #F5F5F5;
+  --color-footer-h3-text: #ffeb3b;
+  --color-footer-h3-after: #ffeb3f;
+  --color-footer_redes-ancora: #ffeb3f;
+  --color-footer_redes-border-hover: #f5f5f5;
 }
