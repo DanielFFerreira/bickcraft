@@ -38,6 +38,30 @@
   letter-spacing: .1em;
 }
 
+/* Introdução Interna */
+.introducao-interna {
+  width: 100%;
+  margin-top: 92px;
+  height: 160px;
+  background-size: cover;
+  text-align: center;
+  color: var(--color-introducao-interna-p);
+  padding-top: 30px;
+}
+.introducao-interna h1 {
+  font-size: 36px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.introducao-interna h1::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: var(--color-quote-externo-p-before-after);
+  margin: 6px auto 10px auto;
+}
+
 /* Produtos */
 .produtos {
   padding: 60px 0;
@@ -117,6 +141,7 @@
 }
 .qualidade_lista {
   padding-top: 20px;
+  overflow: auto; /* clear-fix */
 }
 .qualidade img {
   margin: 0 auto;

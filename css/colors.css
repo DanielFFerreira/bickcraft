@@ -12,6 +12,7 @@
   --color-btn-hover-border: #eee;
   --color-subtitulo-text: #212121;
   --color-subtitulo-after-text: #212121;
+  --color-subtitulo-interno-after-text: #212121;
   --bg-produtos-listas-icone: #000;
   --bg-produtos-lista-li: #FFEB3B;
   --color-btn-fundo-border-hover: #212121;
@@ -28,4 +29,7 @@
   --color-footer-h3-after: #ffeb3f;
   --color-footer_redes-ancora: #ffeb3f;
   --color-footer_redes-border-hover: #f5f5f5;
+
+  /* Sobre */
+  --color-introducao-interna-p: #f5f5f5;
 }
