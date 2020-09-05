@@ -1,5 +1,13 @@
 # Bikcraft
 
+<h2>🚧 Site em contrução</h2>
+
+É um site Bikcraft empresa ficticia que trabalha com bicicletas. Nele as tecnologias usado para criar ele foi:
+
+- HTML
+- CSS
+- JAVASCRIPT 
+
 <h2 style="text-align: center; text-transform: uppercase;">Home</h2>
 <img src="img/print/main.png"/>
 
