@@ -35,4 +35,9 @@
   --color-produto_item-h2: #f5f5f5;
   --color-produto_item-p: #f5f5f5;
   --bg-produto_item-list: #ffeb3b;
+  --bg-orcamento: #000;
+  --color-orcamento-h2: #ffeb3b;
+  --color-label-orcamento-form: #DCDCDC;
+  --bg-border-input: #ffeb3b;
+  --bg-orcamento_dados-ul-li-nth-child: #1d1d1d;
 }
