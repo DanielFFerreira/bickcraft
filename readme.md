@@ -2,7 +2,9 @@
 
 <h2>🚧 Site em contrução</h2>
 
-É um site Bikcraft empresa ficticia que trabalha com bicicletas. Nele as tecnologias usado para criar ele foi:
+Um site que oferece serviços para montagem de sua própria bicicleta
+
+🚲 Bikcraft: é um site que oferece serviços para montagem de sua própria bicicleta, além de ter seu diferencial nos produtos de qualidade e mão de obra.
 
 - HTML
 - CSS
