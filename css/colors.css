@@ -1,5 +1,6 @@
 :root {
-  --bg-color-header: #Fec63e;
+  --bg-color-header: #fec63e;
+  --bg-color-header-light: #ffd54f;
   --color-menu-text: #000;
   --color-menu-text-hover: #fff;
   --color-border-bottom-hover: #fff;
@@ -27,7 +28,7 @@
   --color-footer-text: #F5F5F5;
   --color-footer-h3-text: #ffeb3b;
   --color-footer-h3-after: #ffeb3f;
-  --color-footer_redes-ancora: #ffeb3f;
+  --color-footer_redes-ancora: #fec949;
   --color-footer_redes-border-hover: #f5f5f5;
   --color-introducao-interna-p: #f5f5f5;
   --bg-produto_icone: #212121;

@@ -1,0 +1,34 @@
+/* Sessão de blog */
+.interna_blog {
+  background: url("../img/bg-sobre.jpg") no-repeat center;
+  background-size: cover;
+}
+.blog-container {
+  padding: 40px 0;
+}
+.blog-post {
+  background: #fec63e;
+  border-radius: 10px;
+}
+
+/* Estilo fonte */
+.blog-post a {
+  font-size: 28px;
+  display: block;
+  padding: 20px;
+  text-transform: uppercase;
+}
+.blog-post a::after {
+  content: "→";
+  text-align: right;
+  display: block;
+  float: right;
+}
+.blog-post a:hover {
+  color: #fec63e;
+  background: #000;
+  border-radius: 10px;
+}
+.blog-post:nth-child(even) {
+  background: #fff;
+}
