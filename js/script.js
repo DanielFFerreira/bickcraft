@@ -5,11 +5,13 @@ function toggleHeader() {
   if (window.pageYOffset > 60 && $header.classList.contains('max-header')) {
     $header.classList.remove('max-header');
     $header.classList.add('min-header');
-    $logo.firstElementChild.setAttribute('src','img/bikcraft2.svg');
+    $logo.classList.remove('max-grid-4');
+    $logo.classList.add('min-grid-4');
   }
   else if (window.pageYOffset <= 60 && $header.classList.contains('min-header')) {
     $header.classList.add('max-header');
     $header.classList.remove('min-header');
-    $logo.firstElementChild.setAttribute('src','img/bikcraft.svg');
+    $logo.classList.add('max-grid-4');
+    $logo.classList.remove('min-grid-4');
   }
 }

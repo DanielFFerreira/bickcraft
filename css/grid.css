@@ -8,7 +8,7 @@
 	width: 960px;
 	margin: 0 auto;
 	padding: 0px;
-	position: relative;
+  position: relative;
 }
 
 .container:after, .container:before {
@@ -43,6 +43,13 @@
 .grid-15 	{width: 880px;}
 .grid-16 	{width: 940px;}
 .grid-1-3	{width: 300px;}
+
+.max-grid-4 img {
+  width: 100px;
+}
+.min-grid-4 img {
+  width: 90px;
+}
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 

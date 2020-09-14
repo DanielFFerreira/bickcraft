@@ -19,6 +19,7 @@
 
 .header_menu {
   text-align: right;
+  font-size: 1em;
 }
 .header_menu ul li {
   display: inline-block;
@@ -30,7 +31,6 @@
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: .1em;
-  font-size: 1em;
   padding: 10px 0;
 }
 .header_menu ul li a:hover {
