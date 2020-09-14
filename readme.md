@@ -11,19 +11,22 @@ Um site que oferece serviços para montagem de sua própria bicicleta
 - JAVASCRIPT 
 
 <h2 style="text-align: center; text-transform: uppercase;">Home</h2>
-<img src="img/print/main.png"/>
+<img src="img/print/home.jpg"/>
 
-<h2 style="text-align: center; text-transform: uppercase;">sobre</h2>
+<h2 style="text-align: center; text-transform: uppercase;">Sobre</h2>
 <img src="img/print/sobre.png"/>
 
-<h2 style="text-align: center; text-transform: uppercase;">produtos</h2>
-<img src="img/print/produtos.png"/>
-
-<h2 style="text-align: center; text-transform: uppercase;">Informações do produto</h2>
-<img src="img/print/produtos.png"/>
+<h2 style="text-align: center; text-transform: uppercase;">Produtos</h2>
+<img src="img/print/produtos.jpg"/>
 
 <h2 style="text-align: center; text-transform: uppercase;">Portfólio</h2>
-<img src="img/print/portfolio.png"/>
+<img src="img/print/portfólio.jpg"/>
 
-<h2 style="text-align: center; text-transform: uppercase;">contato</h2>
-<img src="img/print/contatos.png"/>
+<h2 style="text-align: center; text-transform: uppercase;">Contato</h2>
+<img src="img/print/contato.png"/>
+
+<h2 style="text-align: center; text-transform: uppercase;">Blog</h2>
+<img src="img/print/blog.png"/>
+
+<h2 style="text-align: center; text-transform: uppercase;">Corrida Copacabana info</h2>
+<img src="img/print/copacabana.png"/>
