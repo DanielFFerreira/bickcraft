@@ -8,14 +8,6 @@
   padding: 15px 0;
   z-index: 10;
 }
-.max-header {
-  background: var(--bg-color-header);
-  height: 100px;
-}
-.min-header {
-  background: var(--bg-color-header-light);
-  height: 90px;
-}
 
 .header_menu {
   text-align: right;
