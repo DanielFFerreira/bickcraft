@@ -51,11 +51,14 @@
   width: 90px;
 }
 
-@media only screen and (min-width: 788px) and (max-width: 979px) {
+@media only screen and (min-width: 78px) and (max-width: 979px) {
 
   /* Tamanho com valor exato de 768 pixels */
   .container {
     width: 768px;
+  }
+  .header_menu ul li a {
+    font-size: 14px;
   }
 
   .grid-1		{width: 28px;}
