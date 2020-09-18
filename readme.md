@@ -30,3 +30,7 @@ Um site que oferece serviços para montagem de sua própria bicicleta
 
 <h2 style="text-align: center; text-transform: uppercase;">Corrida Copacabana info</h2>
 <img src="img/print/copacabana.png"/>
+
+<p align="center">
+    <img src="img/print/video.gif">
+</p>
